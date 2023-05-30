@@ -57,4 +57,9 @@ sudo apt-get install build-essential
 - brew install zsh-syntax-highlighting
 - brew install zsh-history-substring-search 
 
+# Configure Git
+- git config --global user.name "Ugur Emre Dogan"
 
+- git config --global user.email "ue.dogan@gmail.com"
+
+- ssh-keygen -t ed25519 -C "ue.dogan@gmail.com"
