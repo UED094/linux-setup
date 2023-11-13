@@ -63,3 +63,8 @@ sudo apt-get install build-essential
 - git config --global user.email "ue.dogan@gmail.com"
 
 - ssh-keygen -t ed25519 -C "ue.dogan@gmail.com"
+
+
+# Install Java
+- sdk install java
+- sdk install maven
